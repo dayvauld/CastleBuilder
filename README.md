@@ -13,7 +13,7 @@ javac -c Main.java
 
 ### Usage
 
-Use - main <i>[csv integer array]
+Use - main <i>[csv integer array]</i>
 
 eg. main [1,5,2,4,6,8,1]
 
